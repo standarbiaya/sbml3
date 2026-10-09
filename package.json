@@ -1,0 +1,13 @@
+{
+  "name": "dashboard-sbml",
+  "private": true,
+  "version": "1.0.1",
+  "description": "Dashboard SBML, grafik status Disetujui/Ditolak, pencarian dan Google Sheets (read-only)",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
